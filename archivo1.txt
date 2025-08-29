@@ -2,3 +2,7 @@ Mi archivo inicial local
 
 
 #archivo modificado en github por estudiante 2
+
+
+
+#cambio realizado en github (rama main)
